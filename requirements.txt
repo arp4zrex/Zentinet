@@ -1,0 +1,4 @@
+
+smtplib
+requests
+psutil
